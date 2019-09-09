@@ -1,4 +1,4 @@
-# micrp-bought-an-array-and-updated#include<stdio.h>
+# micro-bought-an-array-and-updated#include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
 int main()
